@@ -75,7 +75,7 @@ if ($result) {
             <div class="flex justify-between">
                 <div class="flex items-center gap-3">
                     <div>
-                        <img src="./images/upload/<?php echo htmlspecialchars($comment['id_photo'] ?: 'default.png'); ?>"
+                        <img src="./upload/images/<?php echo htmlspecialchars($comment['id_photo'] ?: 'default.png'); ?>"
                             alt="Profile Picture"
                             class="w-11 h-11 rounded-full">
                     </div>
