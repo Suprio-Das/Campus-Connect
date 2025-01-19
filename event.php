@@ -66,7 +66,7 @@ include('navbar.php');
 
     <section class="my-24 py-16">
         <div class="text-center mb-12">
-            <p class="text-pink-500 font-semibold mb-2">— Why Join EventGrids? —</p>
+            <p class="text-pink-500 font-semibold mb-2">— Why Join CampusConnect Event? —</p>
             <h2 class="text-2xl md:text-4xl font-bold text-gray-800">
                 Why You Should Join Event
             </h2>
@@ -309,7 +309,8 @@ include('navbar.php');
                 // Populate event details
                 document.getElementById('event-location').innerHTML = `📍 ${event.location}`;
                 document.getElementById('event-name').textContent = event.event_name;
-                document.getElementById('event-description').textContent = event.description;
+                const description = event.description.split(' ').slice(0, 30).join(' ') + '...';
+                document.getElementById('event-description').textContent = description;
 
                 // Initialize countdown
                 const eventDate = new Date(`${event.date} ${event.time}`);
