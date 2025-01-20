@@ -44,8 +44,12 @@ The system consists of:
 
 ## 📊 Diagrams
 
-ER Diagram of CampusConnect
+**ER Diagram of CampusConnect**
 <img src="Campus Connect.jpg" style="width: 100%; height: 500px">
+<br>
+
+**System Architecture of Alumni and Admin**
+<img src="System-Architecture.png" style="width: 100%; height: 100%">
 
 ---
 
