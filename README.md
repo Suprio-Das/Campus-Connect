@@ -51,6 +51,11 @@ The system consists of:
 **System Architecture of Alumni and Admin**
 <img src="System-Architecture.png" style="width: 100%; height: 100%">
 
+**Admin Flowchart**
+<div style="background-color: white; width: auto">
+   <img src="admin-flowchart.drawio.png">
+</div>
+
 ---
 
 ## 🛠️ Installation and Setup
