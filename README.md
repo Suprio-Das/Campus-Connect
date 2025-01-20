@@ -42,11 +42,10 @@ The system consists of:
 3. *Admin-Controlled Content Moderation*: Ensures platform integrity and relevance.
 4. *Email Notifications*: Keeps users updated about new announcements or events.
 
-## 📊 Use Case Diagram
+## 📊 Diagrams
 
-Below is a use case diagram illustrating the system's functionality:
-
-(Diagram will be attached soon)
+ER Diagram of CampusConnect
+<img src="Campus Connect-ER.drawio.png" style="width: 100%; height: 500px">
 
 ---
 

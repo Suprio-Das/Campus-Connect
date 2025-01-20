@@ -35,7 +35,7 @@ include('navbar.php');
             <p id="event-location" class="text-white text-sm bg-white/10 px-4 py-2 rounded-full flex items-center gap-2 mb-4"></p>
             <h1 id="event-name" class="text-white font-bold text-3xl md:text-5xl mb-4"></h1>
             <p id="event-description" class="text-white/80 max-w-lg mx-auto mb-6"></p>
-            <a href="#" class="bg-pink-600 hover:bg-pink-500 text-white font-semibold py-3 px-6 rounded-lg transition">
+            <a href="#eventSchedule" class="bg-pink-600 hover:bg-pink-500 text-white font-semibold py-3 px-6 rounded-lg transition">
                 View Event
             </a>
         </div>
@@ -194,7 +194,7 @@ include('navbar.php');
     <!-- About Section End -->
 
     <!-- Event Schedule -->
-    <section class="w-[95%] mx-auto">
+    <section class="w-[95%] mx-auto" id="eventSchedule">
         <div class="text-center mt-24 mb-5">
             <p class="text-pink-500 font-semibold mb-2">— Events —</p>
             <h2 class="text-2xl md:text-4xl font-bold text-gray-800">
