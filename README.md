@@ -45,7 +45,7 @@ The system consists of:
 ## 📊 Diagrams
 
 ER Diagram of CampusConnect
-<img src="Campus Connect-ER.drawio.png" style="width: 100%; height: 500px">
+<img src="Campus Connect.jpg" style="width: 100%; height: 500px">
 
 ---
 
