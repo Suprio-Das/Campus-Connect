@@ -129,5 +129,3 @@ For any queries or contributions:
 - Email: [jarintasnin27@gmail.com](mailto:jarintasnin27@gmail.com)
 - GitHub: [Jarin Tasnin Anika](https://github.com/tasninanika)
 
----
-
