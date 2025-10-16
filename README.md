@@ -117,7 +117,7 @@ Campus-Connect/
 
 Special thanks to the contributors who brought this project to life:
 - **[Suprio Das](https://github.com/Suprio-Das)**
-- **[Jarin Tasnin Anika](https://github.com/tasninanika)**
+- **[Jarin Tasnin](https://github.com/tasninanika)**
 
 ---
 
@@ -128,4 +128,5 @@ For any queries or contributions:
 - GitHub: [Suprio-Das](https://github.com/Suprio-Das)
 - Email: [jarintasnin27@gmail.com](mailto:jarintasnin27@gmail.com)
 - GitHub: [Jarin Tasnin Anika](https://github.com/tasninanika)
+
 
